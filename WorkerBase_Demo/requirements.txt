@@ -1,0 +1,7 @@
+langchain
+langchain-community
+openai
+tiktoken
+python-dotenv
+requests
+apify-client
